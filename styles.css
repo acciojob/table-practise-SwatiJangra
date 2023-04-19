@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+table{
+	background-color: rgb(255, 255, 0);
+    border:1px solid rgb(0, 0, 0);
+	font-size:20px;
+}
+#Caption{
+     font-size:30px;
+	 color:black;
+	 text-alignment:center;
+}
